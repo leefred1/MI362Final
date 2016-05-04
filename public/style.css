@@ -1,0 +1,33 @@
+body {
+        padding-top: 60px;
+	background: url(background.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+    
+.fontform {
+	display: block;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+}
+
+.imageformport {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+ 	width: 70%;
+}
+
+.imageformland {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+	height: auto;
+}
